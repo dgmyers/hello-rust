@@ -15,3 +15,7 @@ Add a simple cargo (package manager) file
 
 Creating a new dir with a cargo file.  In the default docs rather than init.
 `cargo new hello-rust`
+
+Build and run with cargo.
+`cargo build`
+`cargo run`
